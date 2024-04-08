@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+}
+
+.header {
+    display: flex;
+    background-color: #1F2937;
+    flex-direction: column;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.header_logo {
+    justify-self: flex-start;
+}
+
+.header_links {
+    justify-self: flex-end;
+}
+
+.header_centre {
+    margin-top: 75px;
+    margin-bottom: 70px;
+}
+
+.info {
+
+}
+
+.inspiration {
+
+}
+
+.footer {
+    
+}
